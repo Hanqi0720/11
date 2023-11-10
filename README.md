@@ -31,8 +31,6 @@ Use CNN_LSTM.m to train the emotion recognition model with the generated spectro
 Contributing
 Contributions to improve the project are welcome. Feel free to fork the repository and create a pull request.
 
-License
-Distributed under the MIT License. See LICENSE for more information.
 
 Dataset(download)
 https://drive.google.com/drive/folders/1PoycjKLh9HLfEaQWfrIBYM0OuskNoGQy?usp=drive_link
